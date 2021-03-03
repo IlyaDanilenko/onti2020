@@ -44,15 +44,15 @@ pioneer_max_onti.forward(distance) # distance - расстояние в метр
 ```
 pioneer_max_onti.backward(distance) # distance - расстояние в метрах, на которое нужно сместиться
 ```
-10. Световая индикация радуга, вместе с зависанием
+10. Включить переливающуюся световую индикацию, параметр - время зависания в секундах
 ```
-pioneer_max_onti.light_rainbow(seconds) # seconds - время свечения и зависания
+pioneer_max_onti.light_rainbow(seconds) # seconds - время зависания в секундах
 ```
-11. Световая индикация зеленый, вместе с зависанием
+11. Включить световую индикацию зеленым цветом, параметр - время зависания в секундах
 ```
-pioneer_max_onti.light_green(seconds) # seconds - время свечения и зависания
+pioneer_max_onti.light_green(seconds) # seconds - время зависания в секундах
 ```
-12. Световая индикация красная, вместе с зависанием
+12. Включить световую индикацию красным цветом, параметр - время зависания в секундах
 ```
-pioneer_max_onti.light_red(seconds) # seconds - время свечения и зависания
+pioneer_max_onti.light_red(seconds) # seconds - время зависания в секундах
 ```
