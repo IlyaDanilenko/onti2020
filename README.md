@@ -28,31 +28,31 @@ pioneer_max_onti.go_from_2_to_4()
 ```
 pioneer_max_onti.go_from_4_to_2()
 ```
-6. Смещение влево
+6. Смещение влево, параметр - расстояние в метрах, на которое нужно сместиться
 ```
-pioneer_max_onti.left(distance) # distance - расстояние в метрах, на которое нужно сместиться
+pioneer_max_onti.left(distance)
 ```
-7. Смещение вправо
+7. Смещение вправо, параметр - расстояние в метрах, на которое нужно сместиться
 ```
-pioneer_max_onti.right(distance) # distance - расстояние в метрах, на которое нужно сместиться
+pioneer_max_onti.right(distance)
 ```
-8. Смещение вперед
+8. Смещение вперед, параметр - расстояние в метрах, на которое нужно сместиться
 ```
-pioneer_max_onti.forward(distance) # distance - расстояние в метрах, на которое нужно сместиться
+pioneer_max_onti.forward(distance)
 ```
-9. Смещение назад
+9. Смещение назад, параметр - расстояние в метрах, на которое нужно сместиться
 ```
-pioneer_max_onti.backward(distance) # distance - расстояние в метрах, на которое нужно сместиться
+pioneer_max_onti.backward(distance)
 ```
 10. Включить переливающуюся световую индикацию, параметр - время зависания в секундах
 ```
-pioneer_max_onti.light_rainbow(seconds) # seconds - время зависания в секундах
+pioneer_max_onti.light_rainbow(seconds)
 ```
 11. Включить световую индикацию зеленым цветом, параметр - время зависания в секундах
 ```
-pioneer_max_onti.light_green(seconds) # seconds - время зависания в секундах
+pioneer_max_onti.light_green(seconds)
 ```
 12. Включить световую индикацию красным цветом, параметр - время зависания в секундах
 ```
-pioneer_max_onti.light_red(seconds) # seconds - время зависания в секундах
+pioneer_max_onti.light_red(seconds)
 ```
