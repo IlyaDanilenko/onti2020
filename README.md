@@ -28,23 +28,31 @@ pioneer_max_onti.go_from_2_to_4()
 ```
 pioneer_max_onti.go_from_4_to_2()
 ```
-6. Световая индикация
-```
-pioneer_max_onti.light(seconds) # seconds - количество секунд
-```
-7. Смещение влево
+6. Смещение влево
 ```
 pioneer_max_onti.left(distance) # distance - расстояние в метрах, на которое нужно сместиться
 ```
-8. Смещение вправо
+7. Смещение вправо
 ```
 pioneer_max_onti.right(distance) # distance - расстояние в метрах, на которое нужно сместиться
 ```
-9. Смещение вперед
+8. Смещение вперед
 ```
 pioneer_max_onti.forward(distance) # distance - расстояние в метрах, на которое нужно сместиться
 ```
-10. Смещение назад
+9. Смещение назад
 ```
 pioneer_max_onti.backward(distance) # distance - расстояние в метрах, на которое нужно сместиться
+```
+10. Световая индикация радуга, вместе с зависанием
+```
+pioneer_max_onti.light_rainbow(seconds) # seconds - время свечения и зависания
+```
+11. Световая индикация зеленый, вместе с зависанием
+```
+pioneer_max_onti.light_green(seconds) # seconds - время свечения и зависания
+```
+12. Световая индикация красная, вместе с зависанием
+```
+pioneer_max_onti.light_red(seconds) # seconds - время свечения и зависания
 ```
