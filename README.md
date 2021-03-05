@@ -68,3 +68,7 @@ pioneer_max_onti.light_red(seconds)
 ```
 pioneer_max_onti.print(string)
 ```
+16. Подучить изображение с камеры
+```
+pioneer_max_onti.get_image()
+```
