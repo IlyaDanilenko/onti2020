@@ -64,3 +64,7 @@ pioneer_max_onti.light_green(seconds)
 ```
 pioneer_max_onti.light_red(seconds)
 ```
+15. Вывод предсказания нейронной сети, параметр - название метки
+```
+pioneer_max_onti.print(string)
+```
