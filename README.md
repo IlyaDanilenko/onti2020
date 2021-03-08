@@ -76,3 +76,7 @@ pioneer_max_onti.get_image()
 ```
 pioneer_max_onti.go_from_4_to_test()
 ```
+18. Посадка коптера
+```
+pioneer_max_onti.landing()
+```
