@@ -64,11 +64,11 @@ pioneer_max_onti.light_green(seconds)
 ```
 pioneer_max_onti.light_red(seconds)
 ```
-15. Вывод предсказания нейронной сети, параметр - название метки
+15. Передача строки оператору, параметр - передоваемая строка 
 ```
 pioneer_max_onti.print(string)
 ```
-16. Подучить изображение с камеры
+16. Получить изображение с камеры
 ```
 pioneer_max_onti.get_image()
 ```
