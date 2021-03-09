@@ -80,3 +80,7 @@ pioneer_max_onti.go_from_4_to_test()
 ```
 pioneer_max_onti.landing()
 ```
+19. Взлет с хаба
+```
+pioneer_max_onti.takeoff()
+```
