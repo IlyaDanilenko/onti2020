@@ -72,7 +72,7 @@ pioneer_max_onti.print(string)
 ```
 pioneer_max_onti.get_image()
 ```
-17. Перелет со 2 здания на тестовое здание (для тестов)
+17. Перелет со 4 здания на тестовое здание (для тестов)
 ```
 pioneer_max_onti.go_from_4_to_test()
 ```
